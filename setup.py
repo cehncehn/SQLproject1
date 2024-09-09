@@ -23,7 +23,7 @@ setup(
     author="Chen Chen",
     author_email="cc1227686517@gmail.com",
     long_description=long_description,
-    url=f'https://github.com/cehncehn/MLproject1.git',
+    url=f'https://github.com/cehncehn/SQLproject1.git',
 #    install_requires=get_requirements("requirements.txt"),
     package_dir={"": "src"},
     packages=find_packages(where="src")
