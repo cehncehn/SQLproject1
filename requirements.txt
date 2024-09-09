@@ -5,6 +5,6 @@ pandas
 numpy
 ensure
 pytest
-SQLAlchemy
+mysql-connector-python
 
 -e .
